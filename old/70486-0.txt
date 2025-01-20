@@ -1,127 +1,56 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>
-      The Lurking Fear, by H. P. Lovecraft—A Project Gutenberg eBook
-    </title>
-    <link rel="icon" href="images/cover.jpg" type="image/x-cover">
-    <style>
+﻿The Project Gutenberg eBook of The lurking fear, by H. P. Lovecraft
 
-body {
-    margin-left: 10%;
-    margin-right: 10%;
-}
-
-    h1,h2 {
-    text-align: center; /* all headings centered */
-    clear: both;
-}
-
-p {
-    margin-top: .51em;
-    text-align: justify;
-    margin-bottom: .49em;
-}
-
-hr {
-    width: 33%;
-    margin-top: 2em;
-    margin-bottom: 2em;
-    margin-left: 33.5%;
-    margin-right: 33.5%;
-    clear: both;
-}
-
-hr.tb   {width: 45%; margin-left: 27.5%; margin-right: 27.5%;}
-hr.chap {width: 65%; margin-left: 17.5%; margin-right: 17.5%;}
-@media print { hr.chap {display: none; visibility: hidden;} }
-hr.full {width: 95%; margin-left: 2.5%; margin-right: 2.5%;}
-
-.center   {text-align: center;}
-
-/* Images */
-.figcenter   {
-    margin: auto;
-    text-align: center;
-}
-
-.caption p
-{
-  text-align: center;
-  text-indent: 0;
-  margin: 0.25em 0;
-  font-weight: bold;
-}
-
-div.titlepage {
-  text-align: center;
-  page-break-before: always;
-  page-break-after: always;
-}
-
-div.titlepage p {
-  text-align: center;
-  text-indent: 0em;
-  font-weight: bold;
-  line-height: 1.5;
-  margin-top: 3em;
-}
-
-.ph1 { text-align: center; text-indent: 0em; }
-.ph1 { font-size: medium; margin: .83em auto; }
-
-    </style>
-</head>
-<body>
-<p style='text-align:center; font-size:1.2em; font-weight:bold'>The Project Gutenberg eBook of The lurking fear, by H. P. Lovecraft</p>
-<div style='display:block; margin:1em 0'>
 This eBook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
 whatsoever. You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this eBook or online
-at <a href="https://www.gutenberg.org">www.gutenberg.org</a>. If you
-are not located in the United States, you will have to check the laws of the
-country where you are located before using this eBook.
-</div>
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
 
-<p style='display:block; margin-top:1em; margin-bottom:1em; margin-left:2em; text-indent:-2em'>Title: The lurking fear</p>
-<p style='display:block; margin-top:1em; margin-bottom:0; margin-left:2em; text-indent:-2em'>Author: H. P. Lovecraft</p>
-<p style='display:block; text-indent:0; margin:1em 0'>Release Date: April 7, 2023 [eBook #70486]</p>
-<p style='display:block; text-indent:0; margin:1em 0'>Most recently updated: April 11, 2023</p>
-<p style='display:block; text-indent:0; margin:1em 0'>Language: English</p>
-  <p style='display:block; margin-top:1em; margin-bottom:0; margin-left:2em; text-indent:-2em; text-align:left'>Produced by: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team at http://www.pgdp.net</p>
-<div style='margin-top:2em; margin-bottom:4em'>*** START OF THE PROJECT GUTENBERG EBOOK THE LURKING FEAR ***</div>
+Title: The lurking fear
 
-<div class="titlepage">
+Author: H. P. Lovecraft
 
-<h1>The LURKING FEAR</h1>
+Release Date: April 7, 2023 [eBook #70486]
 
-<h2>By H. P. LOVECRAFT</h2>
+Language: English
 
-<p>[Transcriber's Note: This etext was produced from<br>
-Weird Tales June 1928.<br>
-Extensive research did not uncover any evidence that<br>
-the U.S. copyright on this publication was renewed.]</p>
+Produced by: Greg Weeks, Mary Meehan and the Online Distributed
+             Proofreading Team at http://www.pgdp.net
 
-</div>
-
-<hr class="chap">
-
-<p class="ph1"><i>1. The Shadow on the Chimney</i></p>
+*** START OF THE PROJECT GUTENBERG EBOOK THE LURKING FEAR ***
 
 
-<p>There was thunder in the air on the night I went to the deserted
+
+
+
+                           The LURKING FEAR
+
+                          By H. P. LOVECRAFT
+
+           [Transcriber's Note: This etext was produced from
+                        Weird Tales June 1929.
+         Extensive research did not uncover any evidence that
+         the U.S. copyright on this publication was renewed.]
+
+
+
+
+                    _1. The Shadow on the Chimney_
+
+
+There was thunder in the air on the night I went to the deserted
 mansion atop Tempest Mountain to find the lurking fear. I was not
 alone, for foolhardiness was not then mixed with that love of the
 grotesque and the terrible which has made my career a series of quests
 for strange horrors in literature and in life. With me were two
 faithful and muscular men for whom I had sent when the time came; men
 long associated with me in my ghastly explorations because of their
-peculiar fitness.</p>
+peculiar fitness.
 
-<p>We had started quietly from the village because of the reporters who
-still lingered about after the eldritch panic of a month before—the
+We had started quietly from the village because of the reporters who
+still lingered about after the eldritch panic of a month before--the
 nightmare creeping death. Later, I thought, they might aid me; but I
 did not want them then. Would to God I had let them share the search,
 that I might not have had to bear the secret alone so long; to bear
@@ -129,23 +58,23 @@ it alone for fear the world would call me mad or go mad itself at the
 demon implications of the thing. Now that I am telling it anyway, lest
 the brooding make me a maniac, I wish I had never concealed it. For
 I, and I only, know what manner of fear lurked on that spectral and
-desolate mountain.</p>
+desolate mountain.
 
-<p>In a small motor-car we covered the miles of primeval forest and
+In a small motor-car we covered the miles of primeval forest and
 hill until the wooded ascent checked it. The country bore an aspect
 more than usually sinister as we viewed it by night and without the
 accustomed crowds of investigators, so that we were often tempted to
 use the acetylene headlights despite the attention it might attract.
 It was not a wholesome landscape after dark, and I believe I would
 have noticed its morbidity even had I been ignorant of the terror
-that stalked there. Of wild creatures there were none—they are wise
+that stalked there. Of wild creatures there were none--they are wise
 when death leers close. The ancient lightning-scarred trees seemed
 unnaturally large and twisted, and the other vegetation unnaturally
 thick and feverish, while curious mounds and hummocks in the weedy,
 fulgurite-pitted earth reminded me of snakes and dead men's skulls
-swelled to gigantic proportions.</p>
+swelled to gigantic proportions.
 
-<p>Fear had lurked on Tempest Mountain for more than a century. This I
+Fear had lurked on Tempest Mountain for more than a century. This I
 learned at once from newspaper accounts of the catastrophe which first
 brought the region to the world's notice. The place is a remote, lonely
 elevation in that part of the Catskills where Dutch civilization once
@@ -157,9 +86,9 @@ infrequent troopers patrol it. The fear, however, is an old tradition
 throughout the neighboring villages; since it is a prime topic in the
 simple discourse of the poor mongrels who sometimes leave their valleys
 to trade hand-woven baskets for such primitive necessities as they can
-not shoot, raise, or make.</p>
+not shoot, raise, or make.
 
-<p>The lurking fear dwelt in the shunned and deserted Martense mansion,
+The lurking fear dwelt in the shunned and deserted Martense mansion,
 which crowned the high but gradual eminence whose liability to frequent
 thunderstorms gave it the name of Tempest Mountain. For over a hundred
 years the antique, grove-circled stone house had been the subject
@@ -170,9 +99,9 @@ lone wayfarers after dark, either carrying them off or leaving them
 in a frightful state of gnawed dismemberment; while sometimes they
 whispered of blood-trails toward the distant mansion. Some said the
 thunder called the lurking fear out of its habitation, while others
-said the thunder was its voice.</p>
+said the thunder was its voice.
 
-<p>No one outside the backwoods had believed these varying and conflicting
+No one outside the backwoods had believed these varying and conflicting
 stories, with their incoherent, extravagant descriptions of the
 half-glimpsed fiend; yet not a farmer or villager doubted that the
 Martense mansion was ghoulishly haunted. Local history forbade
@@ -181,18 +110,18 @@ investigators as had visited the building after some especially vivid
 tales of the squatters. Grandmothers told strange myths of the Martense
 specter; myths concerning the Martense family itself, its queer
 hereditary dissimilarity of eyes, its long, unnatural annals, and the
-murder which had cursed it.</p>
+murder which had cursed it.
 
-<p>The terror which brought me to the scene was a sudden and portentous
+The terror which brought me to the scene was a sudden and portentous
 confirmation of the mountaineers' wildest legends. One summer night,
 after a thunderstorm of unprecedented violence, the countryside was
 aroused by a squatter stampede which no mere delusion could create. The
 pitiful throngs of natives shrieked and whined of the unnamable horror
 which had descended upon them, and they were not doubted. They had not
 seen it, but had heard such cries from one of their hamlets that they
-knew a creeping death had come.</p>
+knew a creeping death had come.
 
-<p>In the morning citizens and state troopers followed the shuddering
+In the morning citizens and state troopers followed the shuddering
 mountaineers to the place where they said the death had come. Death
 was indeed there. The ground under one of the squatters' villages
 had caved in after a lightning strike, destroying several of the
@@ -209,9 +138,9 @@ only when about twenty-five of the estimated population were found
 missing from the dead; and even then it was hard to explain the murder
 of fifty by half that number. But the fact remained that on a summer
 night a bolt had come out of the heavens and left a dead village whose
-corpses were horribly mangled, chewed, and clawed.</p>
+corpses were horribly mangled, chewed, and clawed.
 
-<p>The excited countryside immediately connected the horror with the
+The excited countryside immediately connected the horror with the
 haunted Martense mansion, though the localities were over three miles
 apart. The troopers were more skeptical, including the mansion only
 casually in their investigations, and dropping it altogether when they
@@ -219,9 +148,9 @@ found it thoroughly deserted. Country and village people, however,
 canvassed the place with infinite care; overturning everything in the
 house, sounding ponds and brooks, beating down bushes, and ransacking
 the near-by forests. All was in vain; the death that had come had left
-no trace save destruction itself.</p>
+no trace save destruction itself.
 
-<p>By the second day of the search the affair was fully treated by the
+By the second day of the search the affair was fully treated by the
 newspapers, whose reporters overran Tempest Mountain. They described
 it in much detail, and with many interviews to elucidate the horror's
 history as told by local grandams. I followed the accounts languidly
@@ -231,9 +160,9 @@ detected an atmosphere which stirred me oddly, so that on August
 Lefferts Corners, nearest village to Tempest Mountain and acknowledged
 headquarters of the searchers. Three weeks more, and the dispersal of
 the reporters left me free to begin a terrible exploration based on the
-minute inquiries and surveying with which I had meanwhile busied myself.</p>
+minute inquiries and surveying with which I had meanwhile busied myself.
 
-<p>So on this summer night, while distant thunder rumbled, I left a silent
+So on this summer night, while distant thunder rumbled, I left a silent
 motor-car and tramped with two armed companions up the mound-covered
 reaches of Tempest Mountain, casting the beams of an electric torch on
 the spectral gray walls that began to appear through the giant oaks
@@ -242,11 +171,11 @@ the vast boxlike pile displayed obscure hints of terror which day could
 not uncover; yet I did not hesitate, since I had come with fierce
 resolution to test an idea. I believed that the thunder called the
 death-demon out of some fearsome secret place; and be that demon solid
-entity or vaporous pestilence, I meant to see it.</p>
+entity or vaporous pestilence, I meant to see it.
 
-<hr class="tb">
+       *       *       *       *       *
 
-<p>I had thoroughly searched the ruin before, hence knew my plan well;
+I had thoroughly searched the ruin before, hence knew my plan well;
 choosing as the seat of my vigil the old room of Jan Martense, whose
 murder looms so great in the rural legends. I felt subtly that the
 apartment of this ancient victim was best for my purposes. The chamber,
@@ -256,9 +185,9 @@ the southeast corner of the house, and had an immense east window and
 narrow south window, both devoid of panes or shutters. Opposite the
 large window was an enormous Dutch fireplace with scriptural tiles
 representing the prodigal son, and opposite the narrow window was a
-spacious bed built into the wall.</p>
+spacious bed built into the wall.
 
-<p>As the tree-muffled thunder grew louder, I arranged my plan's details.
+As the tree-muffled thunder grew louder, I arranged my plan's details.
 First I fastened side by side on the ledge of the large window three
 rope ladders which I had brought with me. I knew they reached a
 suitable spot on the grass outside, for I had tested them. Then the
@@ -269,18 +198,18 @@ the third watched. From whatever direction the demon might come, our
 potential escape was provided. If it came from within the house, we had
 the window ladders; if from outside, the door and the stairs. We did
 not think, judging from precedent, that it would pursue us far even at
-worst.</p>
+worst.
 
-<p>I watched from midnight to 1 o'clock, when in spite of the sinister
+I watched from midnight to 1 o'clock, when in spite of the sinister
 house, the unprotected window, and the approaching thunder and
 lightning, I felt singularly drowsy. I was between my two companions.
 George Bennett being toward the window and William Tobey toward
 the fireplace. Bennett was asleep, having apparently felt the same
 anomalous drowsiness which affected me, so I designated Tobey for the
 next watch although even he was nodding. It is curious how intently I
-had been watching that fireplace.</p>
+had been watching that fireplace.
 
-<p>The increasing thunder must have affected my dreams, for in the brief
+The increasing thunder must have affected my dreams, for in the brief
 time I slept there came to me apocalyptic visions. Once I partly
 awaked, probably because the sleeper toward the window had restlessly
 flung an arm across my chest. I was not sufficiently awake to see
@@ -289,17 +218,17 @@ distinct anxiety on that score. Never before had the presence of evil
 so poignantly oppressed me. Later I must have dropped asleep again, for
 it was out of a phantasmal chaos that my mind leaped when the night
 grew hideous with shrieks beyond anything in my former experience or
-imagination.</p>
+imagination.
 
-<p>In that shrieking the inmost soul of human fear and agony clawed
+In that shrieking the inmost soul of human fear and agony clawed
 hopelessly and insanely at the ebony gates of oblivion. I awoke to
 red madness and the mockery of diabolism, as farther and farther down
 inconceivable vistas that phobic and crystalline anguish retreated and
 reverberated. There was no light, but I knew from the empty space at
 my right that Tobey was gone, God alone knew whither. Across my chest
-still lay the heavy arm of the sleeper at my left.</p>
+still lay the heavy arm of the sleeper at my left.
 
-<p>Then came the devastating stroke of lightning which shook the whole
+Then came the devastating stroke of lightning which shook the whole
 mountain, lit the darkest crypts of the hoary grove, and splintered
 the patriarch of the twisted trees. In the demon flash of a monstrous
 fireball the sleeper started up suddenly while the glare from beyond
@@ -312,54 +241,55 @@ craters; a nameless, shapeless abomination which no mind could fully
 grasp and no pen even partly describe. In another second I was alone
 in the accursed mansion, shivering and gibbering. George Bennett and
 William Tobey had left no trace, not even of a struggle. They were
-never heard of again.</p>
-
-<hr class="chap">
-
-<p class="ph1"><i>2. A Passer in the Storm</i></p>
+never heard of again.
 
 
-<p>For days after that hideous experience in the forest-swathed mansion
+
+
+                      _2. A Passer in the Storm_
+
+
+For days after that hideous experience in the forest-swathed mansion
 I lay nervously exhausted in my hotel room at Lefferts Corners. I do
 not remember exactly how I managed to reach the motor-car, start it,
 and slip unobserved back to the village; for I retain no distinct
 impression save of wild-armed titan trees, demoniac mutterings of
 thunder, and Charonian shadows athwart the low mounds that dotted and
-streaked the region.</p>
+streaked the region.
 
-<p>As I shivered and brooded on the casting of that brain-blasting shadow,
-I knew that I had at last pried out one of earth's supreme horrors—one
+As I shivered and brooded on the casting of that brain-blasting shadow,
+I knew that I had at last pried out one of earth's supreme horrors--one
 of those nameless blights of outer voids whose faint demon scratchings
 we sometimes hear on the farthest rim of space, yet from which our own
 finite vision has given us a merciful immunity. The shadow I had seen,
 I hardly dared to analyze or identify. Something had lain between me
 and the window that night, but I shuddered whenever I could not cast
 off the instinct to classify it. If it had only snarled, or bayed,
-or laughed titteringly—even that would have relieved the abysmal
+or laughed titteringly--even that would have relieved the abysmal
 hideousness. But it was so silent. It had rested a heavy arm or foreleg
 on my chest.... Obviously it was organic, or had once been organic....
 Jan Martense, whose room I had invaded, was buried in the graveyard
 near the mansion.... I must find Bennett and Tobey, if they lived ...
 why had it picked them, and left me for the last?... Drowsiness is so
-stifling, and dreams are so horrible....</p>
+stifling, and dreams are so horrible....
 
-<p>In a short time I realized that I must tell my story to someone or
+In a short time I realized that I must tell my story to someone or
 break down completely. I had already decided not to abandon the quest
 for the lurking fear, for in my rash ignorance it seemed to me that
 uncertainty was worse than enlightenment, however terrible the latter
 might prove to be. Accordingly I revolved in my mind the best course
 to pursue; whom to select for my confidences, and how to track down the
-thing which had obliterated two men and cast a nightmare shadow.</p>
+thing which had obliterated two men and cast a nightmare shadow.
 
-<p>My chief acquaintances at Lefferts Corners had been the affable
+My chief acquaintances at Lefferts Corners had been the affable
 reporters, of whom several still remained to collect final echoes of
 the tragedy. It was from these that I determined to choose a colleague,
 and the more I reflected the more my preference inclined toward one
 Arthur Munroe, a dark, lean man of about thirty-five, whose education,
 taste, intelligence, and temperament all seemed to mark him as one not
-bound to conventional ideas and experiences.</p>
+bound to conventional ideas and experiences.
 
-<p>On an afternoon in early September Arthur Munroe listened to my story.
+On an afternoon in early September Arthur Munroe listened to my story.
 I saw from the beginning that he was both interested and sympathetic,
 and when I had finished he analyzed and discussed the thing with the
 greatest shrewdness and judgment. His advice, moreover, was eminently
@@ -370,21 +300,21 @@ countryside for information regarding the terrible Martense family, and
 discovered a man who possessed a marvelously illuminating ancestral
 diary. We also talked at length with such of the mountain mongrels
 as had not fled from the terror and confusion to remoter slopes, and
-arranged to precede our culminating task—the exhaustive and definitive
-examination of the mansion in the light of its detailed history—with
+arranged to precede our culminating task--the exhaustive and definitive
+examination of the mansion in the light of its detailed history--with
 an equally exhaustive and definitive examination of spots associated
-with the various tragedies of squatter legend.</p>
+with the various tragedies of squatter legend.
 
-<p>The results of this examination were not at first very enlightening,
+The results of this examination were not at first very enlightening,
 though our tabulation of them seemed to reveal a fairly significant
 trend; namely, that the number of reported horrors was by far the
 greatest in areas either comparatively near the avoided house or
 connected with it by stretches of the morbidly overnourished forest.
 There were, it is true, exceptions; indeed, the horror which had caught
 the world's ear had happened in a treeless space remote alike from the
-mansion and from any connecting woods.</p>
+mansion and from any connecting woods.
 
-<p>As to the nature and appearance of the lurking fear, nothing could
+As to the nature and appearance of the lurking fear, nothing could
 be gained from the scared and witless shanty-dwellers. In the same
 breath they called it a snake and a giant, a thunder-devil and a bat, a
 vulture and a walking tree. We did, however, deem ourselves justified
@@ -393,9 +323,9 @@ electrical storms; and although certain of the stories suggested wings,
 we believed that its aversion for open spaces made land locomotion
 a more probable theory. The only thing really incompatible with the
 latter view was the rapidity with which the creature must have traveled
-in order to perform all the deeds attributed to it.</p>
+in order to perform all the deeds attributed to it.
 
-<p>When we came to know the squatters better, we found them curiously
+When we came to know the squatters better, we found them curiously
 likable in many ways. Simple animals they were, gently descending
 the evolutionary scale because of their unfortunate ancestry and
 stultifying isolation. They feared outsiders, but slowly grew
@@ -407,9 +337,9 @@ that these victims had gone as wholly out of the world as their own
 missing people. That great numbers of them had actually been killed
 and removed, just as the wild animals had long been exterminated, we
 were of course thoroughly convinced; and we waited apprehensively for
-further tragedies to occur.</p>
+further tragedies to occur.
 
-<p>By the middle of October we were puzzled by our lack of progress. Owing
+By the middle of October we were puzzled by our lack of progress. Owing
 to the clear nights no demoniac aggressions had taken place, and the
 completeness of our vain searches of house and country almost drove us
 to regard the lurking fear as a non-material agency. We feared that
@@ -417,9 +347,9 @@ the cold weather would come on and halt our explorations, for all
 agreed that the demon was generally quiet in winter. Thus there was
 a kind of haste and desperation in our last daylight canvass of the
 horror-visited hamlet; a hamlet now deserted because of the squatters'
-fears.</p>
+fears.
 
-<p>The ill-fated squatter hamlet had borne no name, but had long stood
+The ill-fated squatter hamlet had borne no name, but had long stood
 in a sheltered though treeless cleft between two elevations called
 respectively Cone Mountain and Maple Hill. It was closer to Maple Hill
 than to Cone Mountain, some of the crude abodes indeed being dugouts on
@@ -435,11 +365,11 @@ prolongation of which ran to within a short distance of the westernmost
 spur of Tempest Mountain. The upheaval of ground we traced conclusively
 to a landslide from Maple Hill, a tall lone splintered tree on whose
 side had been the striking point of the thunderbolt which summoned the
-fiend.</p>
+fiend.
 
-<hr class="tb">
+       *       *       *       *       *
 
-<p>As for the twentieth time or more Arthur Munroe and I went minutely
+As for the twentieth time or more Arthur Munroe and I went minutely
 over every inch of the violated village, we were filled with a
 certain discouragement coupled with vague and novel fears. It was
 acutely uncanny, even when frightful and uncanny things were common,
@@ -452,9 +382,9 @@ bodies, every thorny foot of adjacent slope again scanned for dens and
 caves, but all without result. And yet, as I have said, vague new fears
 hovered menacingly over us; as if giant bat-winged gryphons squatted
 invisibly on the mountain-tops and leered with Abaddon-eyes that had
-looked on transcosmic gulfs.</p>
+looked on transcosmic gulfs.
 
-<p>As the afternoon advanced, it became increasingly difficult to see; and
+As the afternoon advanced, it became increasingly difficult to see; and
 we heard the rumble of a thunderstorm gathering over Tempest Mountain.
 This sound in such a locality naturally stirred us, though less than
 it would have done at night. As it was, we hoped desperately that the
@@ -462,9 +392,9 @@ storm would last until well after dark; and with that hope turned from
 our aimless hillside searching toward the nearest inhabited hamlet to
 gather a body of squatters as helpers in the investigation. Timid as
 they were, a few of the younger men were sufficiently inspired by our
-protective leadership to promise such help.</p>
+protective leadership to promise such help.
 
-<p>We had hardly more than turned, however, when there descended such a
+We had hardly more than turned, however, when there descended such a
 blinding sheet of torrential rain that shelter became imperative. The
 extreme, almost nocturnal darkness of the sky caused us to stumble
 sadly, but guided by the frequent flashes of lightning and by our
@@ -477,9 +407,9 @@ us where to find. It was dismal sitting there on rickety boxes in the
 pitchy darkness, but we smoked pipes and occasionally flashed our
 pocket lamps about. Now and then we could see the lightning through
 cracks in the wall; the afternoon was so incredibly dark that each
-flash was extremely vivid.</p>
+flash was extremely vivid.
 
-<p>The stormy vigil reminded me shudderingly of my ghastly night on
+The stormy vigil reminded me shudderingly of my ghastly night on
 Tempest Mountain. My mind turned to that odd question which had kept
 recurring ever since the nightmare thing had happened; and again I
 wondered why the demon, approaching the three watchers either from the
@@ -488,9 +418,9 @@ the middle man till the last, when the titan fireball had scared it
 away. Why had it not taken its victims in natural order, with myself
 second, from whichever direction it had approached? With what manner
 of far-reaching tentacles did it prey? Or did it know that I was the
-leader, and save me for a fate worse than that of my companions?</p>
+leader, and save me for a fate worse than that of my companions?
 
-<p>In the midst of these reflections, as if dramatically arranged to
+In the midst of these reflections, as if dramatically arranged to
 intensify them, there fell near by a terrific bolt of lightning
 followed by the sound of sliding earth. At the same time the wolfish
 wind rose to demoniac crescendos of ululation. We were sure that the
@@ -498,9 +428,9 @@ lone tree on Maple Hill had been struck again, and Munroe rose from
 his box and went to the tiny window to ascertain the damage. When he
 took down the shutter the wind and rain howled deafeningly in, so that
 I could not hear what he said; but I waited while he leaned out and
-tried to fathom nature's pandemonium.</p>
+tried to fathom nature's pandemonium.
 
-<p>Gradually a calming of the wind and dispersal of the unusual darkness
+Gradually a calming of the wind and dispersal of the unusual darkness
 told of the storm's passing. I had hoped it would last into the night
 to help our quest, but a furtive sunbeam from a knothole behind me
 removed the likelihood of such a thing. Suggesting to Munroe that we
@@ -512,23 +442,24 @@ leaning out the window. Crossing to where he leaned, I touched his
 shoulder; but he did not move. Then, as I playfully shook him and
 turned him around, I felt the strangling tendrils of a cancerous horror
 whose roots reached into illimitable pasts and fathomless abysms of the
-night that broods beyond time.</p>
+night that broods beyond time.
 
-<p>For Arthur Munroe was dead. And on what remained of his chewed and
-gouged head there was no longer a face.</p>
-
-<hr class="chap">
-
-<p class="ph1"><i>3. What the Red Glare Meant</i></p>
+For Arthur Munroe was dead. And on what remained of his chewed and
+gouged head there was no longer a face.
 
 
-<p>On the tempest-racked night of November 8th, 1921, with a lantern which
+
+
+                     _3. What the Red Glare Meant_
+
+
+On the tempest-racked night of November 8th, 1921, with a lantern which
 cast charnel shadows, I stood digging alone and idiotically in the
 grave of Jan Martense. I had begun to dig in the afternoon, because a
 thunderstorm was brewing, and now that it was dark and the storm had
-burst above the maniacally thick foliage I was glad.</p>
+burst above the maniacally thick foliage I was glad.
 
-<p>I believe that my mind was partly unhinged by events since August 5th;
+I believe that my mind was partly unhinged by events since August 5th;
 the demon shadow in the mansion, the general strain and disappointment,
 and the thing that occurred at the hamlet in an October storm.
 After that thing I had dug a grave for one whose death I could not
@@ -538,9 +469,9 @@ nothing. The squatters might have understood, but I dared not frighten
 them more. I myself seemed strangely callous. That shock at the mansion
 had done something to my brain, and I could think only of the quest for
 a horror now grown to cataclysmic stature in my imagination; a quest
-which the fate of Arthur Munroe made me vow to keep silent and solitary.</p>
+which the fate of Arthur Munroe made me vow to keep silent and solitary.
 
-<p>The scene of my excavations would alone have been enough to unnerve
+The scene of my excavations would alone have been enough to unnerve
 any ordinary man. Baleful primal trees of unholy size, age, and
 grotesqueness leered above me like the pillars of some hellish Druidic
 temple; muffling the thunder, hushing the clawing wind, and admitting
@@ -554,17 +485,17 @@ as their roots displaced unhallowed slabs and sucked venom from what
 lay below. Now and then, beneath the brown pall of leaves that rotted
 and festered in the antediluvian forest darkness, I could trace the
 sinister outlines of some of these low mounds which characterized the
-lightning-pierced region.</p>
+lightning-pierced region.
 
-<p>History had led me to this archaic grave. History, indeed, was all I
+History had led me to this archaic grave. History, indeed, was all I
 had after everything else ended in mocking Satanism. I now believed
 that the lurking fear was no material thing, but a wolf-fanged ghost
 that rode the midnight lightning. And I believed, because of the masses
 of local tradition I had unearthed in my search with Arthur Munroe,
 that the ghost was that of Jan Martense, who died in 1762. That is why
-I was digging idiotically in his grave.</p>
+I was digging idiotically in his grave.
 
-<p>The Martense mansion was built in 1670 by Gerrit Martense, a wealthy
+The Martense mansion was built in 1670 by Gerrit Martense, a wealthy
 New Amsterdam merchant who disliked the changing order under British
 rule, and had constructed this magnificent domicile on a remote
 woodland summit whose untrodden solitude and unusual scenery pleased
@@ -575,9 +506,9 @@ had laid these frequent natural outbursts to some peculiarity of the
 year; but in time he perceived that the locality was especially liable
 to such phenomena. At length, having found these storms injurious to
 his head, he fitted up a cellar into which he could retreat from their
-wildest pandemonium.</p>
+wildest pandemonium.
 
-<p>Of Gerrit Martense's descendants less is known than of himself; since
+Of Gerrit Martense's descendants less is known than of himself; since
 they were all reared in hatred of the English civilization, and
 trained to shun such of the colonists as accepted it. Their life was
 exceedingly secluded, and people declared that their isolation had made
@@ -589,9 +520,9 @@ about the estate. Many of the crowded family degenerated, moved across
 the valley, and merged with the mongrel population which was later to
 produce the pitiful squatters. The rest had stuck sullenly to their
 ancestral mansion, becoming more and more clannish and taciturn, yet
-developing a nervous responsiveness to the frequent thunderstorms.</p>
+developing a nervous responsiveness to the frequent thunderstorms.
 
-<p>Most of this information reached the outside world through young Jan
+Most of this information reached the outside world through young Jan
 Martense, who from some kind of restlessness joined the colonial army
 when news of the Albany Convention reached Tempest Mountain. He was
 the first of Gerrit's descendants to see much of the world; and when
@@ -601,9 +532,9 @@ dissimilar Martense eyes. No longer could he share the peculiarities
 and prejudices of the Martenses, while the very mountain thunderstorms
 failed to intoxicate him as they had before. Instead, his surroundings
 depressed him; and he frequently wrote to a friend in Albany of plans
-to leave the paternal roof.</p>
+to leave the paternal roof.
 
-<p>In the spring of 1763 Jonathan Gifford, the Albany friend of Jan
+In the spring of 1763 Jonathan Gifford, the Albany friend of Jan
 Martense, became worried by his correspondent's silence; especially in
 view of the conditions and quarrels at the Martense mansion. Determined
 to visit Jan in person, he went into the mountains on horseback. His
@@ -615,26 +546,26 @@ lightning the autumn before, and now lay buried behind the neglected
 sunken gardens. They showed the visitor the grave, barren and devoid of
 markers. Something in the Martenses' manner gave Gifford a feeling of
 repulsion and suspicion, and a week later he returned with spade and
-mattock to explore the sepulchral spot. He found what he expected—a
-skull crushed cruelly as if by savage blows—so returning to Albany he
-openly charged the Martenses with the murder of their kinsman.</p>
+mattock to explore the sepulchral spot. He found what he expected--a
+skull crushed cruelly as if by savage blows--so returning to Albany he
+openly charged the Martenses with the murder of their kinsman.
 
-<p>Legal evidence was lacking, but the story spread rapidly around the
+Legal evidence was lacking, but the story spread rapidly around the
 countryside; and from that time the Martenses were ostracized by the
 world. No one would deal with them, and their distant manor was shunned
 as an accursed place. Somehow they managed to live on independently
 by the products of their estate, for occasional lights glimpsed from
 far-away hills attested their continued presence. These lights were
-seen as late as 1810, but toward the last they became very infrequent.</p>
+seen as late as 1810, but toward the last they became very infrequent.
 
-<p>Meanwhile there grew up about the mansion and the mountain a body of
+Meanwhile there grew up about the mansion and the mountain a body of
 diabolic legendry. The place was avoided with doubled assiduousness,
 and invested with every whispered myth tradition could supply. It
 remained unvisited till 1816, when the continued absence of lights was
 noticed by the squatters. At that time a party made investigations,
-finding the house deserted and partly in ruins.</p>
+finding the house deserted and partly in ruins.
 
-<p>There were no skeletons about, so that departure rather than death
+There were no skeletons about, so that departure rather than death
 was inferred. The clan seemed to have left several years before,
 and improvised penthouses showed how numerous it had grown prior to
 its migration. Its cultural level had fallen very low, as proved by
@@ -644,18 +575,18 @@ gone, the fear of the haunted house continued; and grew very acute
 when new and strange stories arose among the mountain decadents. There
 it stood; deserted, feared, and linked with the vengeful ghost of Jan
 Martense. There it still stood on the night I dug in Jan Martense's
-grave.</p>
+grave.
 
-<hr class="tb">
+       *       *       *       *       *
 
-<p>I have described my protracted digging as idiotic, and such it indeed
+I have described my protracted digging as idiotic, and such it indeed
 was in object and method. The coffin of Jan Martense had been soon
-unearthed—it now held only dust and niter—but in my fury to exhume
+unearthed--it now held only dust and niter--but in my fury to exhume
 his ghost I delved irrationally and clumsily down beneath where he had
-lain. God knows what I expected to find—I only felt that I was digging
-in the grave of a man whose ghost stalked by night.</p>
+lain. God knows what I expected to find--I only felt that I was digging
+in the grave of a man whose ghost stalked by night.
 
-<p>It is impossible to say what monstrous depth I had attained when my
+It is impossible to say what monstrous depth I had attained when my
 spade, and soon my feet, broke through the ground beneath. The event,
 under the circumstances, was tremendous; for in the existence of a
 subterranean space here, my mad theories had terrible confirmation. My
@@ -666,9 +597,9 @@ wriggle through; and though no sane person would have tried it at that
 time, I forgot danger, reason, and cleanliness in my single-minded
 fever to unearth the lurking fear. Choosing the direction toward the
 house, I scrambled recklessly into the narrow burrow; squirming ahead
-blindly and rapidly, and flashing but seldom the lamp I kept before me.</p>
+blindly and rapidly, and flashing but seldom the lamp I kept before me.
 
-<p>What language can describe the spectacle of a man lost in infinitely
+What language can describe the spectacle of a man lost in infinitely
 abysmal earth; pawing, twisting, wheezing; scrambling madly through
 sunken convolutions of immemorial blackness without an idea of time,
 safety, direction, or definite object? There is something hideous in
@@ -676,9 +607,9 @@ it, but that is what I did. I did it for so long that life faded to
 a far memory, and I became one with the moles and grubs of nighted
 depths. Indeed, it was only by accident that after interminable
 writhings I jarred my forgotten electric lamp alight, so that it shone
-eerily along the burrow of caked loam that stretched and curved ahead.</p>
+eerily along the burrow of caked loam that stretched and curved ahead.
 
-<p>I had been scrambling in this way for some time, so that my battery
+I had been scrambling in this way for some time, so that my battery
 had burned very low, when the passage suddenly inclined sharply
 upward, altering my mode of progress. And as I raised my glance it
 was without preparation that I saw glistening in the distance two
@@ -690,17 +621,17 @@ distinguish only a claw. But what a claw! Then far overhead I heard
 a faint crashing which I recognized. It was the wild thunder of the
 mountain, raised to hysteric fury. I must have been crawling upward for
 some time, so that the surface was now quite near. And as the muffled
-thunder clattered, those eyes still stared with vacuous viciousness.</p>
+thunder clattered, those eyes still stared with vacuous viciousness.
 
-<p>Thank God I did not then know what it was, else I should have died.
+Thank God I did not then know what it was, else I should have died.
 But I was saved by the very thunder that had summoned it, for after
 a hideous wait there burst from the unseen outside sky one of those
 frequent mountainward bolts whose aftermath I had noticed here and
 there as gashes of disturbed earth and fulgurites of various sizes.
 With Cyclopean rage it tore through the soil above that damnable pit,
-blinding and deafening me, yet not wholly reducing me to a coma.</p>
+blinding and deafening me, yet not wholly reducing me to a coma.
 
-<p>In the chaos of sliding, shifting earth I clawed and floundered
+In the chaos of sliding, shifting earth I clawed and floundered
 helplessly till the rain on my head steadied me and I saw that I had
 come to the surface in a familiar spot; a steep unforested place on the
 southwest slope of the mountain. Recurrent sheet lightnings illumed the
@@ -709,9 +640,9 @@ stretched down from the wooded higher slope, but there was nothing in
 the chaos to show my place of egress from the lethal catacomb. My brain
 was as great a chaos as the earth, and as a distant red glare burst on
 the landscape from the south I hardly realized the horror I had been
-through.</p>
+through.
 
-<p>But when two days later the squatters told me what the red glare
+But when two days later the squatters told me what the red glare
 meant, I felt more horror than that which the mold-burrow and the
 claw and eyes had given; more horror because of the overwhelming
 implications. In a hamlet twenty miles away an orgy of fear had
@@ -719,21 +650,22 @@ followed the bolt which brought me above ground, and a nameless thing
 had dropped from an overhanging tree into a weak-roofed cabin. It had
 done a deed, but the squatters had fired the cabin in frenzy before it
 could escape. It had been doing that deed at the very moment the earth
-caved in on the thing with the claw and eyes.</p>
-
-<hr class="chap">
-
-<p class="ph1"><i>4. The Horror in the Eyes</i></p>
+caved in on the thing with the claw and eyes.
 
 
-<p>There can be nothing normal in the mind of one who, knowing what I
+
+
+                      _4. The Horror in the Eyes_
+
+
+There can be nothing normal in the mind of one who, knowing what I
 knew of the horrors of Tempest Mountain, would seek alone for the fear
 that lurked there. That at least two of the fear's embodiments were
 destroyed, formed but a slight guarantee of mental and physical safety
 in this Acheron of multiform diabolism; yet I continued my quest with
-even greater zeal as events and revelations became more monstrous.</p>
+even greater zeal as events and revelations became more monstrous.
 
-<p>When, two days after my frightful crawl through that crypt of the eyes
+When, two days after my frightful crawl through that crypt of the eyes
 and claw, I learned that a thing had malignly hovered twenty miles
 away at the same instant the eyes were glaring at me, I experienced
 virtual convulsions of fright. But that fright was so mixed with wonder
@@ -746,9 +678,9 @@ into whatever bottomless gulf may yawn. And so it was with the waking
 nightmare of Tempest Mountain; the discovery that two monsters had
 haunted the spot gave me ultimately a mad craving to plunge into the
 very earth of the accursed region, and with bare hands dig out the
-death that leered from every inch of the poisonous soil.</p>
+death that leered from every inch of the poisonous soil.
 
-<p>As soon as possible I visited the grave of Jan Martense and dug vainly
+As soon as possible I visited the grave of Jan Martense and dug vainly
 where I had dug before. Some extensive cave-in had obliterated all
 trace of the underground passage, while the rain had washed so much
 earth back into the excavation that I could not tell how deeply I had
@@ -765,9 +697,9 @@ it called it simply a devil. Examining the great tree where it had
 lurked, I could discern no distinctive marks. I tried to find some
 trail into the black forest, but on this occasion could not stand the
 sight of those morbidly large boles, or of those vast serpentlike roots
-that twisted so malevolently before they sank into the earth.</p>
+that twisted so malevolently before they sank into the earth.
 
-<p>My next step was to re-examine with microscopic care the deserted
+My next step was to re-examine with microscopic care the deserted
 hamlet where death had come most abundantly, and where Arthur Munroe
 had seen something he never lived to describe. Though my vain previous
 searches had been exceedingly minute, I now had new data to test; for
@@ -776,9 +708,9 @@ of the monstrosity had been an underground creature. This time, on the
 14th of November, my quest concerned itself mostly with the slopes
 of Cone Mountain and Maple Hill where they overlook the unfortunate
 hamlet, and I gave particular attention to the loose earth of the
-landslide region on the latter eminence.</p>
+landslide region on the latter eminence.
 
-<p>The afternoon of my search brought nothing to light, and dusk came
+The afternoon of my search brought nothing to light, and dusk came
 as I stood on Maple Hill looking down at the hamlet and across the
 valley to Tempest Mountain. There had been a gorgeous sunset, and now
 the moon came up, nearly full and shedding a silver flood over the
@@ -787,9 +719,9 @@ here and there. It was a peaceful Arcadian scene, but knowing what it
 hid I hated it. I hated the mocking moon, the hypocritical plain, the
 festering mountain, and those sinister mounds. Everything seemed to me
 tainted with a loathsome contagion, and inspired by a noxious alliance
-with distorted hidden powers.</p>
+with distorted hidden powers.
 
-<p>Presently, as I gazed abstractedly at the moonlit panorama, my eye
+Presently, as I gazed abstractedly at the moonlit panorama, my eye
 became attracted by something singular in the nature and arrangement
 of a certain topographical element. Without having any exact knowledge
 of geology, I had from the first been interested in the odd mounds
@@ -804,9 +736,9 @@ That summit was undeniably a center from which the lines or rows of
 points radiated indefinitely and irregularly, as if the unwholesome
 Martense mansion had thrown out visible tentacles of terror. The idea
 of such tentacles gave me an unexplained thrill, and I stopped to
-analyze my reason for believing these mounds glacial phenomena.</p>
+analyze my reason for believing these mounds glacial phenomena.
 
-<p>The more I analyzed the less I believed, and against my newly opened
+The more I analyzed the less I believed, and against my newly opened
 mind there began to beat grotesque and horrible analogies based on
 superficial aspects and upon my experience beneath the earth. Before
 I knew it I was uttering frenzied and disjointed words to myself: "My
@@ -816,9 +748,9 @@ first ... on each side of us." ... Then I was digging frantically
 into the mound which had stretched nearest me; digging desperately,
 shiveringly, but almost jubilantly; digging and at last shrieking aloud
 with some unplaced emotion as I came upon a tunnel or burrow just like
-the one through which I had crawled on that other demoniac night.</p>
+the one through which I had crawled on that other demoniac night.
 
-<p>After that I recall running, spade in hand; a hideous run across
+After that I recall running, spade in hand; a hideous run across
 moon-litten, mound-marked meadows and through diseased, precipitous
 abysses of haunted hillside forest; leaping, screaming, panting,
 bounding toward the terrible Martense mansion. I recall digging
@@ -831,9 +763,9 @@ What still remained down in that hell-hive, lurking and waiting for the
 thunder to arouse it, I did not know. Two had been killed; perhaps that
 had finished it. But still there remained that burning determination to
 reach the innermost secret of the fear, which I had once more come to
-deem definite, material, and organic.</p>
+deem definite, material, and organic.
 
-<p>My indecisive speculation whether to explore the passage alone and
+My indecisive speculation whether to explore the passage alone and
 immediately with my pocket-light or to try to assemble a band of
 squatters for the quest was interrupted after a time by a sudden rush
 of wind from the outside which blew out the candle and left me in stark
@@ -846,31 +778,31 @@ horrible opening at the base of the chimney; and I began to get
 glimpses of the crumbling bricks and unhealthy weeds as faint glows
 of lightning penetrated the woods outside and illumined the chinks in
 the upper wall. Every second I was consumed with a mixture of fear
-and curiosity. What would the storm call forth—or was there anything
+and curiosity. What would the storm call forth--or was there anything
 left for it to call? Guided by a lightning flash I settled myself down
 behind a dense clump of vegetation, through which I could see the
-opening without being seen.</p>
+opening without being seen.
 
-<hr class="tb">
+       *       *       *       *       *
 
-<p>If heaven is merciful, it will some day efface from my consciousness
+If heaven is merciful, it will some day efface from my consciousness
 the sight that I saw, and let me live my last years in peace. I can
 not sleep at night now, and have to take opiates when it thunders. The
 thing came abruptly and unannounced; a demon, ratlike scurrying from
 pits remote and unimaginable, a hellish panting and stifled grunting,
 and then from that opening beneath the chimney a burst of multitudinous
-and leprous life—a loathsome night-spawned flood of organic corruption
+and leprous life--a loathsome night-spawned flood of organic corruption
 more devastatingly hideous than the blackest conjurations of mortal
 madness and morbidity. Seething, stewing, surging, bubbling like
 serpents' slime it rolled up and out of that yawning hole, spreading
 like a septic contagion and streaming from the cellar at every point of
-egress—streaming out to scatter through the accursed midnight forests
-and strew fear, madness, and death.</p>
+egress--streaming out to scatter through the accursed midnight forests
+and strew fear, madness, and death.
 
-<p>God knows how many there were—there must have been thousands. To see
+God knows how many there were--there must have been thousands. To see
 the stream of them in that faint, intermittent lightning was shocking.
 When they had thinned out enough to be glimpsed as separate organisms,
-I saw that they were dwarfed, deformed hairy devils or apes—monstrous
+I saw that they were dwarfed, deformed hairy devils or apes--monstrous
 and diabolic caricatures of the monkey tribe. They were so hideously
 silent; there was hardly a squeal when one of the last stragglers
 turned with the skill of long practise to make a meal in accustomed
@@ -878,9 +810,9 @@ fashion on a weaker companion. Others snapped up what it left and ate
 with slavering relish. Then, in spite of my daze of fright and disgust,
 my morbid curiosity triumphed; and as the last of the monstrosities
 oozed up alone from that nether world of unknown nightmare, I drew my
-automatic pistol and shot it under cover of the thunder.</p>
+automatic pistol and shot it under cover of the thunder.
 
-<p>Shrieking, slithering, torrential shadows of red viscous madness
+Shrieking, slithering, torrential shadows of red viscous madness
 chasing one another through endless, ensanguined corridors of purple
 fulgurous sky ... formless phantasms and kaleidoscopic mutations of a
 ghoulish, remembered scene; forests of monstrous overnourished oaks
@@ -890,20 +822,11 @@ groping from underground nuclei of polypous perversion ... insane
 lightning over malignant ivied walls and demon arcades choked with
 fungous vegetation.... Heaven be thanked for the instinct which led me
 unconscious to places where men dwell; to the peaceful village that
-slept under the calm stars of clearing skies.</p>
+slept under the calm stars of clearing skies.
 
-<hr class="chap">
+[Illustration: "They were slithering shadows of red madness."]
 
-<div class="figcenter">
-  <img src="images/illus.jpg" alt="">
-  <div class="caption">
-    <p>"They were slithering shadows of red madness."</p>
-  </div>
-</div>
-
-<hr class="chap">
-
-<p>I had recovered enough in a week to send to Albany for a gang of
+I had recovered enough in a week to send to Albany for a gang of
 men to blow up the Martense mansion and the entire top of Tempest
 Mountain with dynamite, stop up all the discoverable mound-burrows,
 and destroy certain overnourished trees whose very existence seemed an
@@ -915,9 +838,9 @@ all over the world? Who can, with my knowledge, think of the earth's
 unknown caverns without a nightmare dread of future possibilities? I
 can not see a well or a subway entrance without shuddering ... why can
 not the doctors give me something to make me sleep, or truly calm my
-brain when it thunders?</p>
+brain when it thunders?
 
-<p>What I saw in the glow of my flashlight after I shot the unspeakable
+What I saw in the glow of my flashlight after I shot the unspeakable
 straggling object was so simple that almost a minute elapsed before
 I understood and went delirious. The object was nauseous; a filthy
 whitish gorilla thing with sharp yellow fangs and matted fur. It was
@@ -930,24 +853,20 @@ stared at me underground and excited cloudy recollections. One eye
 was blue, the other brown. They were the dissimilar Martense eyes of
 the old legends, and I knew in one inundating cataclysm of voiceless
 horror what had become of that vanished family; the terrible and
-thunder-crazed house of Martense.</p>
+thunder-crazed house of Martense.
 
-<div style='display:block; margin-top:4em'>*** END OF THE PROJECT GUTENBERG EBOOK THE LURKING FEAR ***</div>
-<div style='text-align:left'>
+*** END OF THE PROJECT GUTENBERG EBOOK THE LURKING FEAR ***
 
-<div style='display:block; margin:1em 0'>
-Updated editions will replace the previous one&#8212;the old editions will
+Updated editions will replace the previous one--the old editions will
 be renamed.
-</div>
 
-<div style='display:block; margin:1em 0'>
 Creating the works from print editions not protected by U.S. copyright
 law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
 royalties. Special rules, set forth in the General Terms of Use part
 of this license, apply to copying and distributing Project
-Gutenberg&#8482; electronic works to protect the PROJECT GUTENBERG&#8482;
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
 concept and trademark. Project Gutenberg is a registered trademark,
 and may not be used if you charge for an eBook, except by following
 the terms of the trademark license, including paying royalties for use
@@ -955,244 +874,195 @@ of the Project Gutenberg trademark. If you do not charge anything for
 copies of this eBook, complying with the trademark license is very
 easy. You may use this eBook for nearly any purpose such as creation
 of derivative works, reports, performances and research. Project
-Gutenberg eBooks may be modified and printed and given away&#8212;you may
+Gutenberg eBooks may be modified and printed and given away--you may
 do practically ANYTHING in the United States with eBooks not protected
 by U.S. copyright law. Redistribution is subject to the trademark
 license, especially commercial redistribution.
-</div>
 
-<div style='margin-top:1em; font-size:1.1em; text-align:center'>START: FULL LICENSE</div>
-<div style='text-align:center;font-size:0.9em'>THE FULL PROJECT GUTENBERG LICENSE</div>
-<div style='text-align:center;font-size:0.9em'>PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK</div>
+START: FULL LICENSE
 
-<div style='display:block; margin:1em 0'>
-To protect the Project Gutenberg&#8482; mission of promoting the free
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
 distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase &#8220;Project
-Gutenberg&#8221;), you agree to comply with all the terms of the Full
-Project Gutenberg&#8482; License available with this file or online at
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
 www.gutenberg.org/license.
-</div>
 
-<div style='display:block; font-size:1.1em; margin:1em 0; font-weight:bold'>
-Section 1. General Terms of Use and Redistributing Project Gutenberg&#8482; electronic works
-</div>
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg™ electronic works
 
-<div style='display:block; margin:1em 0'>
-1.A. By reading or using any part of this Project Gutenberg&#8482;
+1.A. By reading or using any part of this Project Gutenberg™
 electronic work, you indicate that you have read, understand, agree to
 and accept all the terms of this license and intellectual property
 (trademark/copyright) agreement. If you do not agree to abide by all
 the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg&#8482; electronic works in your
+destroy all copies of Project Gutenberg™ electronic works in your
 possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg&#8482; electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the person
-or entity to whom you paid the fee as set forth in paragraph 1.E.8.
-</div>
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
 
-<div style='display:block; margin:1em 0'>
-1.B. &#8220;Project Gutenberg&#8221; is a registered trademark. It may only be
+1.B. “Project Gutenberg” is a registered trademark. It may only be
 used on or associated in any way with an electronic work by people who
 agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg&#8482; electronic works
+things that you can do with most Project Gutenberg™ electronic works
 even without complying with the full terms of this agreement. See
 paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg&#8482; electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg&#8482;
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
 electronic works. See paragraph 1.E below.
-</div>
 
-<div style='display:block; margin:1em 0'>
-1.C. The Project Gutenberg Literary Archive Foundation (&#8220;the
-Foundation&#8221; or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg&#8482; electronic works. Nearly all the individual
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
 works in the collection are in the public domain in the United
 States. If an individual work is unprotected by copyright law in the
 United States and you are located in the United States, we do not
 claim a right to prevent you from copying, distributing, performing,
 displaying or creating derivative works based on the work as long as
 all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg&#8482; mission of promoting
-free access to electronic works by freely sharing Project Gutenberg&#8482;
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
 works in compliance with the terms of this agreement for keeping the
-Project Gutenberg&#8482; name associated with the work. You can easily
+Project Gutenberg™ name associated with the work. You can easily
 comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg&#8482; License when
+same format with its attached full Project Gutenberg™ License when
 you share it without charge with others.
-</div>
 
-<div style='display:block; margin:1em 0'>
 1.D. The copyright laws of the place where you are located also govern
 what you can do with this work. Copyright laws in most countries are
 in a constant state of change. If you are outside the United States,
 check the laws of your country in addition to the terms of this
 agreement before downloading, copying, displaying, performing,
 distributing or creating derivative works based on this work or any
-other Project Gutenberg&#8482; work. The Foundation makes no
+other Project Gutenberg™ work. The Foundation makes no
 representations concerning the copyright status of any work in any
 country other than the United States.
-</div>
 
-<div style='display:block; margin:1em 0'>
 1.E. Unless you have removed all references to Project Gutenberg:
-</div>
 
-<div style='display:block; margin:1em 0'>
 1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg&#8482; License must appear
-prominently whenever any copy of a Project Gutenberg&#8482; work (any work
-on which the phrase &#8220;Project Gutenberg&#8221; appears, or with which the
-phrase &#8220;Project Gutenberg&#8221; is associated) is accessed, displayed,
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
 performed, viewed, copied or distributed:
-</div>
 
-<blockquote>
-  <div style='display:block; margin:1em 0'>
-    This eBook is for the use of anyone anywhere in the United States and most
-    other parts of the world at no cost and with almost no restrictions
-    whatsoever. You may copy it, give it away or re-use it under the terms
-    of the Project Gutenberg License included with this eBook or online
-    at <a href="https://www.gutenberg.org">www.gutenberg.org</a>. If you
-    are not located in the United States, you will have to check the laws
-    of the country where you are located before using this eBook.
-  </div>
-</blockquote>
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
 
-<div style='display:block; margin:1em 0'>
-1.E.2. If an individual Project Gutenberg&#8482; electronic work is
+1.E.2. If an individual Project Gutenberg™ electronic work is
 derived from texts not protected by U.S. copyright law (does not
 contain a notice indicating that it is posted with permission of the
 copyright holder), the work can be copied and distributed to anyone in
 the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase &#8220;Project
-Gutenberg&#8221; associated with or appearing on the work, you must comply
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
 either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg&#8482;
+obtain permission for the use of the work and the Project Gutenberg™
 trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-</div>
 
-<div style='display:block; margin:1em 0'>
-1.E.3. If an individual Project Gutenberg&#8482; electronic work is posted
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
 with the permission of the copyright holder, your use and distribution
 must comply with both paragraphs 1.E.1 through 1.E.7 and any
 additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg&#8482; License for all works
+will be linked to the Project Gutenberg™ License for all works
 posted with the permission of the copyright holder found at the
 beginning of this work.
-</div>
 
-<div style='display:block; margin:1em 0'>
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg&#8482;
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
 License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg&#8482;.
-</div>
+work or any other work associated with Project Gutenberg™.
 
-<div style='display:block; margin:1em 0'>
 1.E.5. Do not copy, display, perform, distribute or redistribute this
 electronic work, or any part of this electronic work, without
 prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
-Gutenberg&#8482; License.
-</div>
+Gutenberg™ License.
 
-<div style='display:block; margin:1em 0'>
 1.E.6. You may convert to and distribute this work in any binary,
 compressed, marked up, nonproprietary or proprietary form, including
 any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg&#8482; work in a format
-other than &#8220;Plain Vanilla ASCII&#8221; or other format used in the official
-version posted on the official Project Gutenberg&#8482; website
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
 (www.gutenberg.org), you must, at no additional cost, fee or expense
 to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original &#8220;Plain
-Vanilla ASCII&#8221; or other form. Any alternate format must include the
-full Project Gutenberg&#8482; License as specified in paragraph 1.E.1.
-</div>
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
 
-<div style='display:block; margin:1em 0'>
 1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg&#8482; works
+performing, copying or distributing any Project Gutenberg™ works
 unless you comply with paragraph 1.E.8 or 1.E.9.
-</div>
 
-<div style='display:block; margin:1em 0'>
 1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg&#8482; electronic works
+access to or distributing Project Gutenberg™ electronic works
 provided that:
-</div>
 
-<div style='margin-left:0.7em;'>
-    <div style='text-indent:-0.7em'>
-        &#8226; You pay a royalty fee of 20% of the gross profits you derive from
-        the use of Project Gutenberg&#8482; works calculated using the method
-        you already use to calculate your applicable taxes. The fee is owed
-        to the owner of the Project Gutenberg&#8482; trademark, but he has
-        agreed to donate royalties under this paragraph to the Project
-        Gutenberg Literary Archive Foundation. Royalty payments must be paid
-        within 60 days following each date on which you prepare (or are
-        legally required to prepare) your periodic tax returns. Royalty
-        payments should be clearly marked as such and sent to the Project
-        Gutenberg Literary Archive Foundation at the address specified in
-        Section 4, &#8220;Information about donations to the Project Gutenberg
-        Literary Archive Foundation.&#8221;
-    </div>
+• You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg™ works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg™ trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, “Information about donations to the Project Gutenberg
+  Literary Archive Foundation.”
 
-    <div style='text-indent:-0.7em'>
-        &#8226; You provide a full refund of any money paid by a user who notifies
-        you in writing (or by e-mail) within 30 days of receipt that s/he
-        does not agree to the terms of the full Project Gutenberg&#8482;
-        License. You must require such a user to return or destroy all
-        copies of the works possessed in a physical medium and discontinue
-        all use of and all access to other copies of Project Gutenberg&#8482;
-        works.
-    </div>
+• You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg™
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg™
+  works.
 
-    <div style='text-indent:-0.7em'>
-        &#8226; You provide, in accordance with paragraph 1.F.3, a full refund of
-        any money paid for a work or a replacement copy, if a defect in the
-        electronic work is discovered and reported to you within 90 days of
-        receipt of the work.
-    </div>
+• You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
 
-    <div style='text-indent:-0.7em'>
-        &#8226; You comply with all other terms of this agreement for free
-        distribution of Project Gutenberg&#8482; works.
-    </div>
-</div>
+• You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg™ works.
 
-<div style='display:block; margin:1em 0'>
 1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg&#8482; electronic work or group of works on different terms than
+Gutenberg™ electronic work or group of works on different terms than
 are set forth in this agreement, you must obtain permission in writing
 from the Project Gutenberg Literary Archive Foundation, the manager of
-the Project Gutenberg&#8482; trademark. Contact the Foundation as set
+the Project Gutenberg™ trademark. Contact the Foundation as set
 forth in Section 3 below.
-</div>
 
-<div style='display:block; margin:1em 0'>
 1.F.
-</div>
 
-<div style='display:block; margin:1em 0'>
 1.F.1. Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
 works not protected by U.S. copyright law in creating the Project
-Gutenberg&#8482; collection. Despite these efforts, Project Gutenberg&#8482;
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
 electronic works, and the medium on which they may be stored, may
-contain &#8220;Defects,&#8221; such as, but not limited to, incomplete, inaccurate
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
 or corrupt data, transcription errors, a copyright or other
 intellectual property infringement, a defective or damaged disk or
 other medium, a computer virus, or computer codes that damage or
 cannot be read by your equipment.
-</div>
 
-<div style='display:block; margin:1em 0'>
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the &#8220;Right
-of Replacement or Refund&#8221; described in paragraph 1.F.3, the Project
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg&#8482; trademark, and any other party distributing a Project
-Gutenberg&#8482; electronic work under this agreement, disclaim all
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
 liability to you for damages, costs and expenses, including legal
 fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
 LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
@@ -1201,9 +1071,7 @@ TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
 LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
 INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 DAMAGE.
-</div>
 
-<div style='display:block; margin:1em 0'>
 1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 defect in this electronic work within 90 days of receiving it, you can
 receive a refund of the money (if any) you paid for it by sending a
@@ -1216,16 +1084,12 @@ or entity providing it to you may choose to give you a second
 opportunity to receive the work electronically in lieu of a refund. If
 the second copy is also defective, you may demand a refund in writing
 without further opportunities to fix the problem.
-</div>
 
-<div style='display:block; margin:1em 0'>
 1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you &#8216;AS-IS&#8217;, WITH NO
+in paragraph 1.F.3, this work is provided to you “AS-IS”, WITH NO
 OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
 LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-</div>
 
-<div style='display:block; margin:1em 0'>
 1.F.5. Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of
 damages. If any disclaimer or limitation set forth in this agreement
@@ -1234,144 +1098,106 @@ agreement shall be interpreted to make the maximum disclaimer or
 limitation permitted by the applicable state law. The invalidity or
 unenforceability of any provision of this agreement shall not void the
 remaining provisions.
-</div>
 
-<div style='display:block; margin:1em 0'>
 1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
 trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg&#8482; electronic works in
+providing copies of Project Gutenberg™ electronic works in
 accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg&#8482;
+production, promotion and distribution of Project Gutenberg™
 electronic works, harmless from all liability, costs and expenses,
 including legal fees, that arise directly or indirectly from any of
 the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg&#8482; work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg&#8482; work, and (c) any
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
 Defect you cause.
-</div>
 
-<div style='display:block; font-size:1.1em; margin:1em 0; font-weight:bold'>
-Section 2. Information about the Mission of Project Gutenberg&#8482;
-</div>
+Section 2. Information about the Mission of Project Gutenberg™
 
-<div style='display:block; margin:1em 0'>
-Project Gutenberg&#8482; is synonymous with the free distribution of
+Project Gutenberg™ is synonymous with the free distribution of
 electronic works in formats readable by the widest variety of
 computers including obsolete, old, middle-aged and new computers. It
 exists because of the efforts of hundreds of volunteers and donations
 from people in all walks of life.
-</div>
 
-<div style='display:block; margin:1em 0'>
 Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg&#8482;&#8217;s
-goals and ensuring that the Project Gutenberg&#8482; collection will
+assistance they need are critical to reaching Project Gutenberg™'s
+goals and ensuring that the Project Gutenberg™ collection will
 remain freely available for generations to come. In 2001, the Project
 Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg&#8482; and future
+and permanent future for Project Gutenberg™ and future
 generations. To learn more about the Project Gutenberg Literary
 Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
-</div>
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
 
-<div style='display:block; font-size:1.1em; margin:1em 0; font-weight:bold'>
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-</div>
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
 
-<div style='display:block; margin:1em 0'>
 The Project Gutenberg Literary Archive Foundation is a non-profit
 501(c)(3) educational corporation organized under the laws of the
 state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation&#8217;s EIN or federal tax identification
+Revenue Service. The Foundation's EIN or federal tax identification
 number is 64-6221541. Contributions to the Project Gutenberg Literary
 Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state&#8217;s laws.
-</div>
+U.S. federal laws and your state's laws.
 
-<div style='display:block; margin:1em 0'>
-The Foundation&#8217;s business office is located at 809 North 1500 West,
+The Foundation's business office is located at 809 North 1500 West,
 Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
-to date contact information can be found at the Foundation&#8217;s website
+to date contact information can be found at the Foundation's website
 and official page at www.gutenberg.org/contact
-</div>
 
-<div style='display:block; font-size:1.1em; margin:1em 0; font-weight:bold'>
-Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation
-</div>
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
 
-<div style='display:block; margin:1em 0'>
-Project Gutenberg&#8482; depends upon and cannot survive without widespread
-public support and donations to carry out its mission of
+Project Gutenberg™ depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
 increasing the number of public domain and licensed works that can be
 freely distributed in machine-readable form accessible by the widest
 array of equipment including outdated equipment. Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 status with the IRS.
-</div>
 
-<div style='display:block; margin:1em 0'>
 The Foundation is committed to complying with the laws regulating
 charities and charitable donations in all 50 states of the United
 States. Compliance requirements are not uniform and it takes a
 considerable effort, much paperwork and many fees to meet and keep up
 with these requirements. We do not solicit donations in locations
 where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular state
-visit <a href="https://www.gutenberg.org/donate/">www.gutenberg.org/donate</a>.
-</div>
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
 
-<div style='display:block; margin:1em 0'>
 While we cannot and do not solicit contributions from states where we
 have not met the solicitation requirements, we know of no prohibition
 against accepting unsolicited donations from donors in such states who
 approach us with offers to donate.
-</div>
 
-<div style='display:block; margin:1em 0'>
 International donations are gratefully accepted, but we cannot make
 any statements concerning tax treatment of donations received from
 outside the United States. U.S. laws alone swamp our small staff.
-</div>
 
-<div style='display:block; margin:1em 0'>
 Please check the Project Gutenberg web pages for current donation
 methods and addresses. Donations are accepted in a number of other
 ways including checks, online payments and credit card donations. To
 donate, please visit: www.gutenberg.org/donate
-</div>
 
-<div style='display:block; font-size:1.1em; margin:1em 0; font-weight:bold'>
-Section 5. General Information About Project Gutenberg&#8482; electronic works
-</div>
+Section 5. General Information About Project Gutenberg™ electronic works
 
-<div style='display:block; margin:1em 0'>
 Professor Michael S. Hart was the originator of the Project
-Gutenberg&#8482; concept of a library of electronic works that could be
+Gutenberg™ concept of a library of electronic works that could be
 freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg&#8482; eBooks with only a loose network of
+distributed Project Gutenberg™ eBooks with only a loose network of
 volunteer support.
-</div>
 
-<div style='display:block; margin:1em 0'>
-Project Gutenberg&#8482; eBooks are often created from several printed
+Project Gutenberg™ eBooks are often created from several printed
 editions, all of which are confirmed as not protected by copyright in
 the U.S. unless a copyright notice is included. Thus, we do not
 necessarily keep eBooks in compliance with any particular paper
 edition.
-</div>
 
-<div style='display:block; margin:1em 0'>
 Most people start at our website which has the main PG search
-facility: <a href="https://www.gutenberg.org">www.gutenberg.org</a>.
-</div>
+facility: www.gutenberg.org
 
-<div style='display:block; margin:1em 0'>
-This website includes information about Project Gutenberg&#8482;,
+This website includes information about Project Gutenberg™,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
-</div>
-
-</div>
-</body>
-</html>
